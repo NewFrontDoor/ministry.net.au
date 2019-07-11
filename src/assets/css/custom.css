@@ -1,0 +1,94 @@
+#header-img{
+    background-color: #f1f1f1;
+}
+
+.navbar.navbar-inverse{
+    /*background: rgba(52, 49, 72, 0.5);*/
+    background: #252528;
+    border-bottom: 1px solid #252528;
+    color: #333;
+}
+
+.navbar.sticky {
+    background: #252528;
+    border-bottom: 1px solid #252528;
+}
+
+.navbar .container .navbar-header .navbar-brand {
+color: #a6a6a7;
+}
+
+#other-page-wrapper{
+    margin-top: 100px;
+}
+
+
+.glyphicon-envelope{
+    font-size: 33px;
+    color: #454548;
+    
+}
+a:hover > .glyphicon{
+    color:#fff;
+    opacity: 1;
+}
+
+
+.spotify{
+        width: auto;
+    position: relative;
+}
+
+#footer .credits .email i{
+width: auto;
+position: relative;
+}
+
+.slider-img{
+    max-height: 360px;
+    display: inline-block;
+}
+
+
+
+
+.navbar-brand>span{
+    /*font-family: futura-pt, sans-serif;*/
+    font-family: bebas-neue, sans-serif;
+    letter-spacing: 1.3px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+@media (max-width: 388px){
+    .navbar-brand>span{
+    letter-spacing: 1px;
+    font-size: 15px;
+    }
+}
+
+
+
+
+.no-bottom-margin{
+    margin-bottom: 0 !important;
+}
+
+
+  .header-container{
+      width: 100%;
+      min-height: 360px;
+      background-repeat: no-repeat;
+      background-position: center; 
+      background-size: 100% 100%;
+  }
+
+  .nfd-logo{
+      max-height: 550px;
+  }
+  a {
+    color:  #d02834;
+    }
+    a:hover {
+        color:  #f16b75;
+        }
